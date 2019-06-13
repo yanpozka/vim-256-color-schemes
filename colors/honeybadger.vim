@@ -68,7 +68,7 @@ hi Statement              ctermfg=111    ctermbg=none   cterm=none
 hi StatusLine             ctermfg=230    ctermbg=237    cterm=none
 hi StatusLineNC           ctermfg=101    ctermbg=237    cterm=none
 hi StorageClass           ctermfg=192    ctermbg=none   cterm=none
-hi String                 ctermfg=113    ctermbg=none   cterm=none
+hi String                 ctermfg=245    ctermbg=none   cterm=none
 hi StringDelimiter        ctermfg=none   ctermbg=none   cterm=none
 hi Structure              ctermfg=192    ctermbg=none   cterm=none
 hi TabLine                ctermfg=15     ctermbg=242    cterm=underline
